@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "nadirheim:mineral1",
+  "base": "nadirheim:mineral2_pickaxe",
+  "result": {
+    "id": "nadirheim:mineral1_pickaxe"
+  },
+  "template": "nadirheim:violinite_upgrade_smithing_template"
+}

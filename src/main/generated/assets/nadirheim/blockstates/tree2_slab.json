@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nadirheim:block/tree2_slab"
+    },
+    "type=double": {
+      "model": "nadirheim:block/tree2_planks"
+    },
+    "type=top": {
+      "model": "nadirheim:block/tree2_slab_top"
+    }
+  }
+}

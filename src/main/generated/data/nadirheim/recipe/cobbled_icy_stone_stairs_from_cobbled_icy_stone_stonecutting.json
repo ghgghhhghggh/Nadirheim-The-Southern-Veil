@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "nadirheim:cobbled_icy_stone",
+  "result": {
+    "id": "nadirheim:cobbled_icy_stone_stairs"
+  }
+}

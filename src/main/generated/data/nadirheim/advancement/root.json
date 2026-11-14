@@ -1,0 +1,38 @@
+{
+  "criteria": {
+    "has_violinite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "nadirheim:violinite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "torpedo_arrow_hit": {
+      "trigger": "nadirheim:torpedo_arrow_hit"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "nadirheim:block/icy_stone",
+    "description": {
+      "translate": "advancements.nadirheim.root.description"
+    },
+    "icon": {
+      "id": "nadirheim:violinite"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.nadirheim.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_violinite",
+      "torpedo_arrow_hit"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

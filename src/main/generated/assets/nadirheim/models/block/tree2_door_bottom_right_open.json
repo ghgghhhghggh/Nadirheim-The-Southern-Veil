@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_right_open",
+  "textures": {
+    "bottom": "nadirheim:block/tree2_door_bottom",
+    "top": "nadirheim:block/tree2_door_top"
+  }
+}

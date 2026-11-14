@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "nadirheim:oak_sign_from_nadirheim_planks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_tree1_planks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "nadirheim:tree1_planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_tree2_planks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "nadirheim:tree2_planks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_tree1_planks",
+      "has_tree2_planks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "nadirheim:oak_sign_from_nadirheim_planks"
+    ]
+  }
+}

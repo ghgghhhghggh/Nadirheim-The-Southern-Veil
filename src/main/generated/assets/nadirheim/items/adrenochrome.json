@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "nadirheim:item/adrenochrome",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": -2866805
+      }
+    ]
+  }
+}

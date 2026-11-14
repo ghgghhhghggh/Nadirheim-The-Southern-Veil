@@ -1,0 +1,20 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "nadirheim:fontaine",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "nadirheim:arid_biome_drying"
+            }
+          ]
+        },
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "nadirheim:mineral2",
+  "base": "nadirheim:violinite_shovel",
+  "result": {
+    "id": "nadirheim:mineral2_shovel"
+  },
+  "template": "nadirheim:violinite_upgrade_smithing_template"
+}

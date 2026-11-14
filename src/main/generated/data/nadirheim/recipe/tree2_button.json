@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    "nadirheim:tree2_planks"
+  ],
+  "result": {
+    "id": "nadirheim:tree2_button"
+  }
+}

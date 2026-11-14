@@ -1,0 +1,6 @@
+{
+  "parent": "nadirheim:item/template_small_item",
+  "textures": {
+    "layer0": "nadirheim:item/xp_coin"
+  }
+}

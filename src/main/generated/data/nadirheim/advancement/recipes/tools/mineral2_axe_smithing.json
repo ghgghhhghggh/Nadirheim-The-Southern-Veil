@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_mineral2": {
+      "conditions": {
+        "items": [
+          {
+            "items": "nadirheim:mineral2"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "nadirheim:mineral2_axe_smithing"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_mineral2"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "nadirheim:mineral2_axe_smithing"
+    ]
+  }
+}

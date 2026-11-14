@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 20260926,
+    "separation": 15,
+    "spacing": 45
+  },
+  "structures": [
+    {
+      "structure": "nadirheim:fontaine",
+      "weight": 1
+    }
+  ]
+}

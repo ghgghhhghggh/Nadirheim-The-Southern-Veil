@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 0.1,
+  "ingredient": "nadirheim:cobbled_icy_stone",
+  "result": {
+    "id": "nadirheim:icy_stone"
+  }
+}

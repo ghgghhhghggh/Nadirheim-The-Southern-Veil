@@ -1,0 +1,10 @@
+{
+  "asset_name": "violinite",
+  "description": {
+    "color": "#8C81D9",
+    "translate": "trim_material.nadirheim.violinite"
+  },
+  "override_armor_assets": {
+    "nadirheim:violinite": "violinite_darker"
+  }
+}

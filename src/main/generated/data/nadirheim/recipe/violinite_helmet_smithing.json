@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "nadirheim:violinite",
+  "base": "minecraft:diamond_helmet",
+  "result": {
+    "id": "nadirheim:violinite_helmet"
+  },
+  "template": "nadirheim:violinite_upgrade_smithing_template"
+}

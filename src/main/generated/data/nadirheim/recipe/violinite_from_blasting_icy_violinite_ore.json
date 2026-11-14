@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1.0,
+  "group": "violinite",
+  "ingredient": "nadirheim:icy_violinite_ore",
+  "result": {
+    "id": "nadirheim:violinite"
+  }
+}

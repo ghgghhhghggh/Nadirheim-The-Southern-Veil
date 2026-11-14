@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "nadirheim:violinite",
+  "base": "minecraft:diamond_axe",
+  "result": {
+    "id": "nadirheim:violinite_axe"
+  },
+  "template": "nadirheim:violinite_upgrade_smithing_template"
+}

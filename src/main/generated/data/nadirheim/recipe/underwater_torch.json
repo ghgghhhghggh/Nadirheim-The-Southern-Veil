@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": "minecraft:glowstone",
+    "S": "nadirheim:stone_stick"
+  },
+  "pattern": [
+    "G",
+    "S"
+  ],
+  "result": {
+    "count": 4,
+    "id": "nadirheim:underwater_torch"
+  }
+}

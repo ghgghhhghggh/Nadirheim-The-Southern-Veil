@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "nadirheim:block/tree1_log",
+    "side": "nadirheim:block/tree1_log"
+  }
+}

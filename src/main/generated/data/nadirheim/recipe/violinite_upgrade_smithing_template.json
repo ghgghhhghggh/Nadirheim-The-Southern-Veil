@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": "minecraft:diamond",
+    "C": [
+      "minecraft:deepslate",
+      "minecraft:cobbled_deepslate"
+    ],
+    "S": "nadirheim:violinite_upgrade_smithing_template"
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "nadirheim:violinite_upgrade_smithing_template"
+  }
+}

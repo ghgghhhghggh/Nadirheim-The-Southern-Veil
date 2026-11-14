@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "#": "nadirheim:tree1_planks"
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "nadirheim:tree1_pressure_plate"
+  }
+}

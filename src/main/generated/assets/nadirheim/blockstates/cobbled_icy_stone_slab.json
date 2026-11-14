@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nadirheim:block/cobbled_icy_stone_slab"
+    },
+    "type=double": {
+      "model": "nadirheim:block/cobbled_icy_stone"
+    },
+    "type=top": {
+      "model": "nadirheim:block/cobbled_icy_stone_slab_top"
+    }
+  }
+}

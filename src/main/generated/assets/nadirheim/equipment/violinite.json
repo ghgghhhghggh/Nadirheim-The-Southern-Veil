@@ -1,0 +1,29 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "nadirheim:violinite"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "nadirheim:violinite"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "nadirheim:violinite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "nadirheim:violinite"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "nadirheim:violinite"
+      }
+    ]
+  }
+}

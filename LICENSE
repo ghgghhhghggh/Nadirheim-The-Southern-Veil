@@ -1,0 +1,38 @@
+Nadirheim : The Southern Veil
+Copyright (c) 2026 ghgghhhghggh
+
+This project is dual-licensed: the source code and the creative assets are
+covered by different terms.
+
+
+1. SOURCE CODE — GNU Lesser General Public License v3.0
+
+The source code of this mod (Java sources, build scripts, and the data files
+produced by the data generator) is free software: you can redistribute it
+and/or modify it under the terms of the GNU Lesser General Public License,
+version 3, as published by the Free Software Foundation.
+
+The full license texts are provided in:
+  - COPYING.LESSER  (GNU Lesser General Public License v3.0)
+  - COPYING         (GNU General Public License v3.0, which the LGPL builds upon)
+
+This code is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE. See the GNU Lesser General Public License for details.
+
+Add-ons and compatibility mods that depend on this mod (using its items,
+blocks, tags, registries or classes) may use any license they choose.
+
+
+2. ASSETS, LORE AND NAME — All Rights Reserved
+
+The following are (c) 2026 ghgghhhghggh — All Rights Reserved:
+  - textures, models and sounds;
+  - structure files (.nbt);
+  - the lore, story and world of the mod;
+  - the name "Nadirheim" and the mod's logo and icon.
+
+They may not be copied, modified, redistributed or reused in other projects
+without prior written permission from the author. They may be distributed
+unmodified as part of this mod, including in modpacks that download the mod
+from its official pages.

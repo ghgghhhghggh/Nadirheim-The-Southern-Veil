@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "nadirheim:block/tree2_planks",
+    "side": "nadirheim:block/tree2_planks",
+    "top": "nadirheim:block/tree2_planks"
+  }
+}

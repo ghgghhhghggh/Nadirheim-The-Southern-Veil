@@ -1,0 +1,25 @@
+{
+  "parent": "nadirheim:root",
+  "criteria": {
+    "torpedo_arrow_hit": {
+      "trigger": "nadirheim:torpedo_arrow_hit"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nadirheim.torpedo_arrow_hit.description"
+    },
+    "icon": {
+      "id": "minecraft:bow"
+    },
+    "title": {
+      "translate": "advancements.nadirheim.torpedo_arrow_hit.title"
+    }
+  },
+  "requirements": [
+    [
+      "torpedo_arrow_hit"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

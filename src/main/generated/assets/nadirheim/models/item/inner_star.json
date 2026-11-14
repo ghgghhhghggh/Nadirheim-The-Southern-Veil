@@ -1,0 +1,6 @@
+{
+  "parent": "nadirheim:item/template_sphere",
+  "textures": {
+    "all": "nadirheim:item/inner_star"
+  }
+}

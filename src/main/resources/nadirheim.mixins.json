@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "ghgghhhghggh.nadirheim.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"AbstractArrowMixin",
+		"ExampleMixin",
+		"NautilusMixin",
+		"StructureTemplatePoolAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

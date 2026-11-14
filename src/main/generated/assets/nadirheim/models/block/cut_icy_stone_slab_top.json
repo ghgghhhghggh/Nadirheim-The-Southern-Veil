@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "nadirheim:block/cut_icy_stone",
+    "side": "nadirheim:block/cut_icy_stone",
+    "top": "nadirheim:block/cut_icy_stone"
+  }
+}

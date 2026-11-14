@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "nadirheim:block/tree1_planks",
+    "side": "nadirheim:block/tree1_planks",
+    "top": "nadirheim:block/tree1_planks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "nadirheim:block/cobbled_icy_stone",
+    "side": "nadirheim:block/cobbled_icy_stone",
+    "top": "nadirheim:block/cobbled_icy_stone"
+  }
+}

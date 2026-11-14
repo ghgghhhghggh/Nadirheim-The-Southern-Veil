@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "nadirheim",
+	"version": "${version}",
+	"name": "Nadirheim : The Southern Veil",
+	"description": "Dive into the inner sun of this world",
+	"authors": [
+		"ghgghhhghggh"
+	],
+	"contact": {},
+	"license": [
+		"LGPL-3.0-only (code)",
+		"All Rights Reserved (assets, lore and name)"
+	],
+	"icon": "assets/nadirheim/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ghgghhhghggh.nadirheim.Nadirheim"
+		],
+		"client": [
+			"ghgghhhghggh.nadirheim.client.NadirheimClient"
+		],
+		"fabric-datagen": [
+			"ghgghhhghggh.nadirheim.client.NadirheimDataGenerator"
+		]
+	},
+	"mixins": [
+		"nadirheim.mixins.json",
+		{
+			"config": "nadirheim.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

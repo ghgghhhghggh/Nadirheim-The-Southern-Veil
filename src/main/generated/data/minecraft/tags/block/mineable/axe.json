@@ -1,0 +1,31 @@
+{
+  "values": [
+    "nadirheim:sieve",
+    "nadirheim:tree1_door",
+    "nadirheim:tree1_trapdoor",
+    "nadirheim:tree2_door",
+    "nadirheim:tree2_trapdoor",
+    "nadirheim:tree1_planks",
+    "nadirheim:tree1_stairs",
+    "nadirheim:tree1_slab",
+    "nadirheim:tree1_fence",
+    "nadirheim:tree1_fence_gate",
+    "nadirheim:tree1_pressure_plate",
+    "nadirheim:tree1_button",
+    "nadirheim:tree2_planks",
+    "nadirheim:tree2_stairs",
+    "nadirheim:tree2_slab",
+    "nadirheim:tree2_fence",
+    "nadirheim:tree2_fence_gate",
+    "nadirheim:tree2_pressure_plate",
+    "nadirheim:tree2_button",
+    "nadirheim:tree1_log",
+    "nadirheim:tree1_wood",
+    "nadirheim:tree2_log",
+    "nadirheim:tree2_wood",
+    "nadirheim:stripped_tree1_log",
+    "nadirheim:stripped_tree1_wood",
+    "nadirheim:stripped_tree2_log",
+    "nadirheim:stripped_tree2_wood"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "values": [
+    "nadirheim:violinite_ore",
+    "nadirheim:deepslate_violinite_ore",
+    "nadirheim:icy_violinite_ore",
+    "nadirheim:violinite_block",
+    "nadirheim:mineral2_ore",
+    "nadirheim:mineral1_ore",
+    "nadirheim:icy_stone",
+    "nadirheim:icy_stone_stairs",
+    "nadirheim:icy_stone_slab",
+    "nadirheim:icy_stone_wall",
+    "nadirheim:cobbled_icy_stone",
+    "nadirheim:cobbled_icy_stone_stairs",
+    "nadirheim:cobbled_icy_stone_slab",
+    "nadirheim:cobbled_icy_stone_wall",
+    "nadirheim:cut_icy_stone",
+    "nadirheim:cut_icy_stone_stairs",
+    "nadirheim:cut_icy_stone_slab",
+    "nadirheim:cut_icy_stone_wall"
+  ]
+}

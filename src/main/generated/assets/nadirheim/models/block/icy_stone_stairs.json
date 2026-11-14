@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "nadirheim:block/icy_stone",
+    "side": "nadirheim:block/icy_stone",
+    "top": "nadirheim:block/icy_stone"
+  }
+}

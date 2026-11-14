@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": [
+      "minecraft:stone",
+      "minecraft:cobblestone",
+      "nadirheim:icy_stone",
+      "nadirheim:cobbled_icy_stone"
+    ]
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 4,
+    "id": "nadirheim:stone_stick"
+  }
+}

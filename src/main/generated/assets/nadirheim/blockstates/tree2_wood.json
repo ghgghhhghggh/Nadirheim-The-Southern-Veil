@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "nadirheim:block/tree2_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "nadirheim:block/tree2_wood"
+    },
+    "axis=z": {
+      "model": "nadirheim:block/tree2_wood",
+      "x": 90
+    }
+  }
+}

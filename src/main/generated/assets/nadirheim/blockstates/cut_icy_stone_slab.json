@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nadirheim:block/cut_icy_stone_slab"
+    },
+    "type=double": {
+      "model": "nadirheim:block/cut_icy_stone"
+    },
+    "type=top": {
+      "model": "nadirheim:block/cut_icy_stone_slab_top"
+    }
+  }
+}

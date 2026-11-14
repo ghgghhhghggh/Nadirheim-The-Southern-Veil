@@ -1,0 +1,7 @@
+{
+  "parent": "nadirheim:block/template_sieve",
+  "textures": {
+    "side": "nadirheim:block/sieve_side",
+    "top": "nadirheim:block/sieve_top"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "key": {
+    "#": [
+      "nadirheim:tree1_planks",
+      "nadirheim:tree2_planks"
+    ]
+  },
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:oak_boat"
+  }
+}

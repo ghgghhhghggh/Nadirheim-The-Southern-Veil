@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "nadirheim:block/pillar_capital",
+    "side": "nadirheim:block/pillar_capital",
+    "top": "nadirheim:block/pillar_capital_top"
+  }
+}

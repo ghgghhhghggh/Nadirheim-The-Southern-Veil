@@ -1,0 +1,32 @@
+{
+  "parent": "nadirheim:root",
+  "criteria": {
+    "has_violinite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "nadirheim:violinite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nadirheim.violinite.description"
+    },
+    "icon": {
+      "id": "nadirheim:violinite"
+    },
+    "title": {
+      "translate": "advancements.nadirheim.violinite.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_violinite"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

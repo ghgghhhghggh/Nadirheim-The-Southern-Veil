@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1.0,
+  "group": "violinite",
+  "ingredient": "nadirheim:violinite_ore",
+  "result": {
+    "id": "nadirheim:violinite"
+  }
+}

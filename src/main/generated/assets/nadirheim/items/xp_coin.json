@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "nadirheim:item/xp_coin",
+    "tints": [
+      {
+        "type": "nadirheim:xp_orb"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:desert",
+    "minecraft:cherry_grove",
+    "minecraft:mushroom_fields",
+    "#minecraft:is_forest",
+    "#minecraft:is_savanna",
+    "#minecraft:is_jungle",
+    "#minecraft:is_taiga",
+    "#minecraft:is_badlands"
+  ]
+}
